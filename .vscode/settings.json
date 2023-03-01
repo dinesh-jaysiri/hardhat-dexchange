@@ -1,6 +1,0 @@
-{
-    "solidity.solhintRules": {},
-    "hardhat-language-server.trace.server.verbosity": "message",
-    "solidity.defaultCompiler": "localFile",
-    "hardhat.telemetry": true
-}
